@@ -7,7 +7,7 @@ function dwarfRollCall(dwarves) {
 }
 
 
-/*function summonCaptainPlanet(planeteerCalls) {
+function summonCaptainPlanet(planeteerCalls) {
   var veggies = [];
    for (var i = 0; i < planeteerCalls.length; i++){
  veggies.push(planeteerCalls[i].toUpperCase() + '!')
@@ -29,4 +29,4 @@ function findTheCheese (foods) {
     }
   }
   return 'no cheese!'
-} */
+} 
