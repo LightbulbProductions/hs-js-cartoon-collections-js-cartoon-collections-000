@@ -41,3 +41,9 @@ function findTheCheese(foods) {
 let others = ['sun', 'swiss', 'brie']
 console.log(findTheCheese(others))
 
+const words = ['boo', 'hello', 'blue']
+function wordsWithB(words) {
+  for (var i = 0; i < words.length; i++)
+  if words[i] === ['boo' && 'blue']
+}
+
