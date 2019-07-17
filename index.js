@@ -6,7 +6,9 @@
   return dwarfnames;
 }
 */
-function dwarves(1, 2, 3, 4 )
+function dwarves(1, 2, 3, 4 ) {
+  
+}
 const dwarfRollCall = ["Doc", "Dopey", "Bashful", "Grumpy"];
 dwarfRollCall.forEach(function(item, index, array) {
 console.log(index, ".", item);
