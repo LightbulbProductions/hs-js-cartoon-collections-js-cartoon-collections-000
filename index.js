@@ -50,4 +50,5 @@ function wordsWithB(words) {
   }
   
 }
+console.log(wordsWithB(words));
 
