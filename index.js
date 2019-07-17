@@ -34,3 +34,4 @@ function findTheCheese(foods) {
   }
   return 'no cheese!'
 } 
+findTheCheese()
