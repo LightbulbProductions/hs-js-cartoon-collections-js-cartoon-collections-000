@@ -6,7 +6,8 @@
   return dwarfnames;
 }
 */
-let dwarfNames = [];
+let dwarfNames = ["Doc", "Dopey", "Bashful", "Grumpy"];
+let dwarfRollCall = dwarfNames.entries
 
 function summonCaptainPlanet(planeteerCalls) {
   var veggies = [];
