@@ -12,7 +12,7 @@ function dwarfRollCall(dwarves) {
 
 function summonCaptainPlanet(planeteerCalls) {
   var veggies = [];
-  // starting index count is 0 if
+  // looping starting index count is 0 ...<array.length add!
    for (var i = 0; i < planeteerCalls.length; i++){
  veggies.push(planeteerCalls[i].toUpperCase() + '!')
 }
