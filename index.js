@@ -34,4 +34,5 @@ function findTheCheese(foods) {
   }
   return 'no cheese!'
 } 
+let others = ['gouda', 'swiss', 'brie']
 findTheCheese(others) 
