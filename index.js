@@ -47,7 +47,7 @@ function wordsWithB(words) {
     if (wordsWithB.startsWith('b') === 'b') {
       return words[i]
     }
-  }wordsWithB(words)
+  }
   
 }
 console.log(words[i]);
