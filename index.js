@@ -44,11 +44,11 @@ console.log(findTheCheese(others))
 const words = ['boo', 'hello', 'blue']
 function wordsWithB(words) {
   for (var i = 0; i < words.length; i++) {
-    if (words.startsWith('b')) {
+    if (wordsWithB.startsWith('b') === 'b') {
       return words[i]
     }
-  }
+  }wordsWithB(words)
   
 }
-console.log(wordsWithB(words));
+console.log(words[i]);
 
