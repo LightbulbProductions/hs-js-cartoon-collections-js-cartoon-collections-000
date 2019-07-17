@@ -1,10 +1,11 @@
-function dwarfRollCall(dwarves) {
+/*function dwarfRollCall(dwarves) {
   var dwarfnames = [];
   dwarves.forEach(function(names, i) {
     dwarfnames += ([i+1]+'. '+ names + " ");
   });
   return dwarfnames;
 }
+*/
 
 function summonCaptainPlanet(planeteerCalls) {
   var veggies = [];
