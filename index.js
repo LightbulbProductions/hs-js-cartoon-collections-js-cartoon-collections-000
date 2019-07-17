@@ -6,7 +6,8 @@
   return dwarfnames;
 }
 */
-function dwarfNames = [];
+let dwarfNames = [];
+
 function summonCaptainPlanet(planeteerCalls) {
   var veggies = [];
    for (var i = 0; i < planeteerCalls.length; i++){
