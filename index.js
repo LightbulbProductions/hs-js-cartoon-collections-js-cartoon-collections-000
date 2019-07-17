@@ -1,4 +1,4 @@
-// f  declaration + 
+// f  declaration + f name and params in()
 function dwarfRollCall(dwarves) {
   var dwarfnames = [];
   dwarves.forEach(function(names, i) {
