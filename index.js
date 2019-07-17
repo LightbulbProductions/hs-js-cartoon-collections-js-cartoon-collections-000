@@ -1,4 +1,4 @@
-// f  declaration + f name and params in() defines 
+// f  declaration + f name (identifier) and params in() defines 
 function dwarfRollCall(dwarves) {
   var dwarfnames = [];
   //f expression IIFE  
