@@ -1,7 +1,7 @@
 // f  declaration + f name (identifier) and params in() defines 
 function dwarfRollCall(dwarves) {
   var dwarfnames = [];
-  //f expression IIFE  
+  //f expression IIFE   f call 
   dwarves.forEach(function(names, i) {
     dwarfnames += ([i+1]+'. '+ names + " ");
   });
