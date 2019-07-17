@@ -28,7 +28,7 @@ function longPlaneteerCalls(words) {
 
 function findTheCheese(foods) {
   for (var i = 0; i < foods.length; i++) {
-      if (foods[i] === 'cheddar') {
+      if (foods[i] === 'cheddar' || 'gouda') {
       return foods[i]
     }
   }
