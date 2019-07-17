@@ -6,10 +6,11 @@
   return dwarfnames;
 }
 */
+function dwarfRollCall(){
 let dwarfNames = ["Doc", "Dopey", "Bashful", "Grumpy"];
 let dwarfRollCall = dwarfNames.entries();
 console.log(dwarfRollCall);
-
+}
 /*function summonCaptainPlanet(planeteerCalls) {
   var veggies = [];
    for (var i = 0; i < planeteerCalls.length; i++){
