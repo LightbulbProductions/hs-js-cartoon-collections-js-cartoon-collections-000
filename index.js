@@ -5,6 +5,7 @@ function dwarfRollCall(dwarves) {
   dwarves.forEach(function(names, i) {
     dwarfnames += ([i+1]+'. '+ names + " ");
   });
+  // returns value
   return dwarfnames;
 }
 
